@@ -1,3 +1,21 @@
+
+install NPM 
+install NODEJS
+downnload and install  axios
+npm install axios
+
+npm start
+go URL
+http://localhost:3000/
+
+
+debug with chrome in mode cellphone
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
